@@ -1,6 +1,6 @@
 import React from "react";
 import "./Card.css";
-import food from "../../assets/food.jpg"; // Tell webpack this JS file uses this image
+
 import heartOutline from "../../assets/heart-outline.png"; // Tell webpack this JS file uses this image
 import heartFill from "../../assets/heart-fill.png"; // Tell webpack this JS file uses this image
 
