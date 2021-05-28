@@ -12,8 +12,8 @@ export default function Card(props) {
           <span className="letter">{props.author[0]}</span>
         </div>
         <div className="card-title-group">
-          <h5 className="card-title">props.title</h5>
-          <div className="card-date">props.date</div>
+          <h5 className="card-title">{props.title}</h5>
+          <div className="card-date">{props.date}</div>
         </div>
       </div>
       <img className="card-image" src={props.image} alt="Logo" />
