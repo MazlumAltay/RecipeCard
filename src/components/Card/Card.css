@@ -10,6 +10,10 @@
 	transition: 200ms;
 }
 
+.card-image {
+	width: 100%;
+}
+
 .card:hover {
 	transition: 200ms;
 	border: 3px;
