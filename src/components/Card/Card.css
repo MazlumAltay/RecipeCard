@@ -1,4 +1,5 @@
 .card {
+	width: 30%;
 	background-color: white;
 	color: #272727;
 	padding: 20px;
@@ -63,7 +64,6 @@
 }
 
 .card-text {
-	width: 350px;
 	font-size: medium;
 }
 
