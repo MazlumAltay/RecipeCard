@@ -7,7 +7,7 @@ function App() {
   const recipeItem = {
     title: "Musakka",
     date: "28 Mayıs 2021 Cuma",
-    image: "http://www.oktayustayemektarifi.net/wp-content/uploads/2015/04/tavuk-etli-musakka.jpg",
+    image: "https://cdn.yemek.com/mncrop/940/625/uploads/2015/01/patlican-musakka-yemekcom.jpg",
     description:
       "Türk mutfağının belli başlı sebze yemeklerinden biridir. Aynı zamanda birçok Orta Doğu ve Balkan ülkelerinin mutfaklarında da yer almaktadır. Birkaç hazırlanış türü bulunmaktadır; patlıcan musakka, kabak musakka, karnabahar musakka ve patates musakka gibi.",
   };
